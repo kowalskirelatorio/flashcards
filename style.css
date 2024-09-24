@@ -33,3 +33,8 @@ footer{
     padding: 4rem;
     gap: 3rem;
 }
+
+.cartao{
+    flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
+}
