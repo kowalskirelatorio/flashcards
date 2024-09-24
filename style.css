@@ -10,7 +10,7 @@
 body{
     background-color: var(--fundo);
     margin: 0;
-
+    color: var(--branco)
 }
 
 footer{
