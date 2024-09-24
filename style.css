@@ -13,6 +13,7 @@ body{
     color: var(--branco);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: italic;
+    font-size: medium;
 }
 
 footer{
