@@ -10,7 +10,8 @@
 body{
     background-color: var(--fundo);
     margin: 0;
-    color: var(--branco)
+    color: var(--branco);
+    font-family: fantasy;
 }
 
 footer{
