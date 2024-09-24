@@ -56,7 +56,7 @@ criaCartao (
     criaCartao (
     'Física',
     'Qual a função de um resistor?',
-    'Limitar o fluxo de carga elétrica por meio da conversão da energia elétrica em energia térmica’)
+    'Limitar o fluxo de carga elétrica por meio da conversão da energia elétrica em energia térmica')
     
     criaCartao (
     'História',
