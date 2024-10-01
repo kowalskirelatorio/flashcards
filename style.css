@@ -46,3 +46,11 @@ footer{
     text-align: center;
 
 }
+
+.cartao-conteudo h3{
+    position: absolute;
+    color: var(--branco)
+    border: 1px solid var(var(--destaque));
+    text-align: left
+
+}
