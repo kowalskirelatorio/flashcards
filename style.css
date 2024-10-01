@@ -66,7 +66,7 @@ footer{
 }
 
 .cartao-resposta p{
-    color: var(--cartao-verso);
+    color: var(--destaque);
 
 }
 
