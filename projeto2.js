@@ -17,5 +17,14 @@ function criaCartao (categoria, pergunta, resposta){
 }
 
 function mostraResposta(card){
+    const resposta = document.querySelector('cartao.resposta');
+    if (resposta.style.display === 'none'){
+        resposta.style.display = 'block';
+    }
 
+    }
+    else{
+        resposta.style.display = 'none'
+
+    }
 }
