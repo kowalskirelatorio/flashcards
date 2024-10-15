@@ -27,4 +27,3 @@ function mostraResposta(card){
         resposta.style.display = 'none';
 
     }
-}
