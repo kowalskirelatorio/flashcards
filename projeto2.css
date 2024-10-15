@@ -40,3 +40,7 @@ footer{
     box-shadow: 2px 6px 15px 2px;
 
 }
+
+.cartao-conteudo:hover{
+    transform: scale(0.2);
+}
