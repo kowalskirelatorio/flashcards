@@ -36,5 +36,6 @@ footer{
     padding: 2rem;
     border: 1px solid var(--preto);
     background-color: var(--pergunta);
-    
+    border-radius: 2px;
+
 }
