@@ -24,7 +24,7 @@ function mostraResposta(card){
 
     }
     else{
-        resposta.style.display = 'none'
+        resposta.style.display = 'none';
 
     }
 }
